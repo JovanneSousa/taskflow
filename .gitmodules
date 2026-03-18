@@ -1,0 +1,6 @@
+[submodule "todoreact"]
+	path = todoreact
+	url = https://github.com/JovanneSousa/todoreact
+[submodule "tarefas-api"]
+	path = tarefas-api
+	url = https://github.com/JovanneSousa/tarefas-api
